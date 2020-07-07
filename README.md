@@ -3,6 +3,8 @@ Sending Email using Nodemailer
 
 /client:
 npm install
+
+
 /server
 npm install
 
